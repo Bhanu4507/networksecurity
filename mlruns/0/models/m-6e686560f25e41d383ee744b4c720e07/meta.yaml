@@ -1,0 +1,10 @@
+artifact_location: file:///D:/MLOPs Projects/Projects by Bhanu/2. Networksecurity/mlruns/0/models/m-6e686560f25e41d383ee744b4c720e07/artifacts
+creation_timestamp: 1774237063725
+experiment_id: '0'
+last_updated_timestamp: 1774237068754
+model_id: m-6e686560f25e41d383ee744b4c720e07
+model_type: null
+name: model
+source_run_id: 2d5ebc733f864d6d83b40f920f346572
+status: 2
+status_message: null
